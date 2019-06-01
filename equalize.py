@@ -1,4 +1,4 @@
-gitimport cv2
+import cv2
 
 def main():
     video = cv2.VideoCapture(0)
